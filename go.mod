@@ -1,3 +1,3 @@
-module github.com/github/proto-gen-go
+module github.com/veryfancy/proto-gen-go
 
 go 1.24
